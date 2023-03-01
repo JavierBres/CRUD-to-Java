@@ -1,7 +1,12 @@
 import javax.swing.*;
 
-public class Form {
-    private JButton button1;
-    private JPanel panel1;
-    private JTable table1;
+public class Form extends JFrame {
+
+    private JTextArea editor;
+    private JTextField status;
+
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
+    }
 }
