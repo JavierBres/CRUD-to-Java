@@ -12,6 +12,7 @@ public class Form extends JFrame {
     private JFormattedTextField formattedTextField1;
     private JPanel botonera;
     private JPanel cabecera;
+    private JLabel pelis;
 
 
     private void createUIComponents() {
